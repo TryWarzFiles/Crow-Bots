@@ -12,7 +12,7 @@ const client = new Discord.Client()
 disbut(client);
 
 // .JSON
-const config = require('./.json/config.json');
+const config = require('./json/config.json');
 const console = require('console');
 // Color
 const vert = config.color
